@@ -1,5 +1,5 @@
 
-# socialhacking
+# insta
 Hack any kind of social media easily, Facebook, instagram and Gmail available.
 
 # available
@@ -19,6 +19,6 @@ Termux, Android
 
 --> git clone https://github.com/Samc232/insta
 
---> cd socialhacking
+--> cd insta
 
 --> python hack.py
